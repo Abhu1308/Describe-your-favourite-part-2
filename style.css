@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+#home {
+    background-color: aqua;
+}
+#About {
+background-color: chartreuse;
+}
+#My-favourite {
+    background-color: orange;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 2px 2px #F8BBD0;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+p {
+    font-size: 18px;
+    color: purple;
+}
